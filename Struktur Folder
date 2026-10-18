@@ -1,0 +1,14 @@
+portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    ├── images/
+    │   ├── profil.1000082387 (1)_page-0001 (1)jpg       ← foto profil Anda
+    │   ├── karya-1.jpg      ← (opsional)
+    │   ├── galeri-1.jpg     ← (opsional)
+    │   └── ...
+    ├── videos/
+    │   └── (video lokal Anda, opsional)
+    └── documents/
+        └── cv.DOC-20261018-WA0002pdf           ← file PDF CV Anda
